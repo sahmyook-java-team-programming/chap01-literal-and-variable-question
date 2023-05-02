@@ -3,14 +3,7 @@ package com.ohgiraffers.level01.basic;
 public class Application2 {
 
 	public static void main(String[] args) {
-
-		double a;
-		double b;
-		a = 12.5;
-		b = 36.4;
-		System.out.println(a * b);
-		System.out.println(2 * (a + b));
-
+		
 		/* 사각형의 넓이와 둘레를 구하는 문제이다.
 		 * 너비 12.5 높이 36.4를 변수에 저장하고
 		 * 각 넓이와 둘레를 계산해 변수에 담고 아래와 같이 출력되도록 하시오
